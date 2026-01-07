@@ -1,0 +1,8 @@
+# Python dependencies for Part 1: Database Design and ETL Pipeline
+
+pandas==2.1.4          # Reading and transforming CSV data
+numpy==1.26.2          # Handling missing values and numeric operations
+sqlalchemy==2.0.25     # Database connectivity (MySQL/PostgreSQL)
+psycopg2-binary==2.9.9 # PostgreSQL database driver
+pymysql==1.1.0         # MySQL database driver
+python-dateutil==2.8.2 # Date parsing and standardization
